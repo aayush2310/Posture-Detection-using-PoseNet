@@ -4,7 +4,7 @@ Demo Link-https://aayush2310.github.io/Posture-Detection-using-PoseNet/
 
 
 
-#Q1)Name of your Project and its domain.
+# Q1)Name of your Project and its domain.
 
 Ans=>The name of the project is "Posture Detection with PoseNet"
      The domain of the project "Posture Detection with PoseNet" would typically fall under the intersection of computer vision and human pose estimation. Specifically, it involves using the PoseNet model or a similar algorithm to analyze and detect human body postures or poses from images or video data.
